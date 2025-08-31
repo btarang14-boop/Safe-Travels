@@ -1,0 +1,16 @@
+
+.dart_tool/
+.packages
+.pub-cache/
+build/
+ios/
+macos/
+windows/
+linux/
+web/
+**/GeneratedPluginRegistrant.*
+**/*.iml
+.idea/
+.gradle/
+.local.properties
+.DS_Store
